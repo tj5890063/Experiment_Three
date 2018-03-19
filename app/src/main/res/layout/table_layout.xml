@@ -64,7 +64,7 @@
                        android:textSize="20dp" />
         </TableRow>
     </TableLayout>
-    <view
+    <View
         android:layout_width="match_parent"
         android:layout_height="4dp"
         android:background="#ffffff"/>
@@ -97,7 +97,7 @@
                 android:textSize="20dp" />
         </TableRow>
     </TableLayout>
-    <view
+    <View
         android:layout_width="match_parent"
         android:layout_height="4dp"
         android:background="#ffffff"/>
@@ -111,8 +111,9 @@
                 android:text="Quit"
                 android:textColor="#ffffff"
                 android:layout_marginLeft="10dp"
-                android:textSize="20dp" />
+                android:textSize="20dp"/>
         </TableRow>
     </TableLayout>
+
 
 </LinearLayout>
